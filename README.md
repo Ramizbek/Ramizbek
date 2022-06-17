@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramizbek&label=Profile%20views&color=0e75b6&style=flat" alt="ramizbek" /> </p>
 
-- 🔭 I’m currently working on **Vip Hot Dog**
+- 🔭 I’m currently working on **Codail App**
 
-- 🌱 I’m currently learning on **Database, Retrofit**
+- 🌱 I’m currently learning on **Database, Retrofit, Permissions**
 
 - 🤝 I’m looking for help with **Work that can be increase my algorithm**
 
