@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Android, Kotlin, Java**
 
-- 📫 How to reach me **ramizbek.aliyev1@gmail.com**
+- 📫 How to reach me **ramizbekdeveloper@gmail.com**
 
 - ⚡ Fun fact **The first programmer in the entire world was a woman. Her name was Ada Lovelace and she was born in 1815. It is believed by some people that Lovelace published the first algorithm intended to be carried out by a machine.**
 
