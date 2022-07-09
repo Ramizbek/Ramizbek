@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Music Player**
 
-- 🌱 I’m currently learning **Database, Retrofit**
+- 🌱 I’m currently learning **Database, Retrofit, Room**
 
 - 🤝 I’m looking for help with **Work that can be increase my algorithm**
 
