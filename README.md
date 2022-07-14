@@ -1,7 +1,7 @@
 <img align="top" alt="Coding" width="match_parent" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
 <h1 align="center">Hi guys👋 Ramizbek</h1>
-<h3 align="center">A passionate Adndroid developer from Uzbekistan</h3>
+<h3 align="center">A passionate Android developer from Uzbekistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 
