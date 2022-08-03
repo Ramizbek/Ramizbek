@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramizbek&label=Profile%20views&color=0e75b6&style=flat" alt="ramizbek" /> </p>
 
-- 🔭 I’m currently working on **Dictionary App**
+- 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **RxKotlin, Api, Room**
+- 🌱 I’m currently learning **Firebase**
 
 - 🤝 I’m looking for help with **Work that can be increase my algorithm**
 
